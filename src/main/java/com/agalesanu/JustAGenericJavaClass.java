@@ -12,6 +12,7 @@ public class JustAGenericJavaClass {
 //        System.out.println(Integer.toBinaryString((Integer.MAX_VALUE)));
 
 //        Instantiere obiecte: wrepper (Boxing/autoboxing)
+
         int simplePrimitive = 0;
         Integer objectInteger = 10; // in loc de Integer objectInteger = new Integer(value: 10);
 
